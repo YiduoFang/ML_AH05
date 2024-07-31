@@ -1,1 +1,1 @@
-This is the machine learning code for project AH05
+This is the code for project AH05
